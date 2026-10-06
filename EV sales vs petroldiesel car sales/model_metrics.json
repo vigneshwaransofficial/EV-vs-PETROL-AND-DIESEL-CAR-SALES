@@ -1,0 +1,11 @@
+{
+    "target": "ev_sales",
+    "model": "RandomForestRegressor",
+    "number_of_features": 62,
+    "training_samples": 960,
+    "testing_samples": 240,
+    "MAE": 29890.610041666667,
+    "MSE": 40578079556.24284,
+    "RMSE": 201440.0147841606,
+    "R2_Score": 0.8740205011883065
+}
